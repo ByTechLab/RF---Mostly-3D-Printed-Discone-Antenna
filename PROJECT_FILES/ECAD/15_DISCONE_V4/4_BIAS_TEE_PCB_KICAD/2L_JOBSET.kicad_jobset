@@ -5,7 +5,7 @@
       "id": "a333f5e7-49d4-42e7-9ee8-a83fa7dd08dd",
       "settings": {
         "black_and_white": false,
-        "color_theme": "KiCad Default",
+        "color_theme": "BYTECHLAB_COLORS_SCH",
         "description": "",
         "drawing_sheet": "",
         "format": "pdf",
